@@ -1,0 +1,54 @@
+body {
+    background:gainsboro;
+
+     }
+
+#quotz{
+    padding-top: 30px;
+    font-family: monospace;
+    width: 50%;
+    margin:auto;
+    color: #b0b0b0;
+}
+#heart{
+    color: red;
+
+}
+hr{
+    width: 600px;
+    color: black;
+    font-size: 30px;
+}
+#footing{
+    padding-top: 20px;
+}
+  #head{
+      font-family: 'Aldrich';
+      font-size: 50px;
+      color: darkseagreen;
+  }
+  #para{
+      font-family: 'Zilla Slab Highlight';
+      color: darkslategray;
+      font-size: 30px;
+  }
+  #quoteText{
+      font-family: 'Courgette', cursive;
+      color: #914141;
+  }
+ #source{
+     font-family: 'Aldrich';
+     color: darkslategray;
+  }
+  #hr{
+      border: 1px;
+      border-bottom: 1px dashed #ccc;
+      background: #999;
+
+  }
+  #twit{
+      color: deepskyblue;
+  }
+  #hand{
+      color: orangered;
+  }
