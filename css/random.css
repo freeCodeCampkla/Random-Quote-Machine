@@ -1,14 +1,17 @@
-body {
-    background:gainsboro;
+body{
+    background-image: url("http://res.cloudinary.com/dudmcgzzm/image/upload/v1501336749/b43731a2_u3qsc6.png");
 
-     }
+}
 
 #quotz{
-    padding-top: 30px;
-    font-family: monospace;
+    padding-top: 20px;
+    font-family: 'Zilla Slab Highlight';
     width: 50%;
     margin:auto;
-    color: #b0b0b0;
+    background-image: url("http://res.cloudinary.com/dudmcgzzm/image/upload/v1501336749/b43731a2_u3qsc6.png");
+    border: dotted;
+
+
 }
 #heart{
     color: red;
@@ -22,33 +25,37 @@ hr{
 #footing{
     padding-top: 20px;
 }
-  #head{
-      font-family: 'Aldrich';
-      font-size: 50px;
-      color: darkseagreen;
-  }
-  #para{
-      font-family: 'Zilla Slab Highlight';
-      color: darkslategray;
-      font-size: 30px;
-  }
-  #quoteText{
-      font-family: 'Courgette', cursive;
-      color: #914141;
-  }
- #source{
-     font-family: 'Aldrich';
-     color: darkslategray;
-  }
-  #hr{
-      border: 1px;
-      border-bottom: 1px dashed #ccc;
-      background: #999;
+#head{
+    font-family: 'Zilla Slab ';
 
-  }
-  #twit{
-      color: deepskyblue;
-  }
-  #hand{
-      color: orangered;
-  }
+    color: black;
+}
+#para{
+    font-family: 'Zilla Slab ';
+    color: black;
+
+}
+#quoteText{
+    font-family: 'Zilla Slab';
+    color: brown;
+  align:left;
+
+}
+#source{
+    font-family: 'Zilla Slab';
+    color: darkslategray;
+}
+#hr{
+    border: 2px;
+    border-bottom: 1px dashed #ccc;
+    background: #999;
+}
+#twit{
+    color: deepskyblue;
+}
+#hand{
+    color: orangered;
+}
+#buttons{
+    padding-top: 30px;
+}
